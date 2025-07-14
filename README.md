@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Matheus e sou estudante de Informática para Negócios na FATEC, com formação técnica em Desenvolvimento de Sistemas pela ETEC. Desde o ensino médio venho me dedicando ao aprendizado de programação e, atualmente, estou focado em aprofundar meus conhecimentos em JavaScript e TypeScript. Tenho interesse em desenvolvimento web e busco constantemente aprimorar minhas habilidades com projetos práticos. Estou em busca de minha primeira oportunidade como estagiário na área de tecnologia, com o objetivo de crescer como desenvolvedor e contribuir ativamente em projetos reais.
+Me chamo Matheus e sou estudante de Informática para Negócios na FATEC Rio Preto, com formação técnica em Desenvolvimento de Sistemas pela ETEC PHILADELPHO GOUVÊA NETTO. Desde o ensino médio venho me dedicando ao aprendizado de programação e, atualmente, estou focado em aprofundar meus conhecimentos em JavaScript e TypeScript. Tenho interesse em desenvolvimento web e busco constantemente aprimorar minhas habilidades com projetos práticos. Estou em busca de minha primeira oportunidade como estagiário na área de tecnologia, com o objetivo de crescer como desenvolvedor e contribuir ativamente em projetos reais.
 
 <p align="left">
     <a href="https://github.com/Mattiiyyah?tab=followers">
