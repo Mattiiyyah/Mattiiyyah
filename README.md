@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Matheus de Paula Santos
+# 👨🏻‍💻 Matheus de Paula Santos
 
 **`Desenvolvedor FullStack`**
 
