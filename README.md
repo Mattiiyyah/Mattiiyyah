@@ -60,6 +60,15 @@ Me chamo Matheus e sou estudante de Informática para Negócios na FATEC Rio Pre
 />
 <img 
     align="left" 
+    alt="Java"
+    title="Java" 
+    width="40px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="40px" 
