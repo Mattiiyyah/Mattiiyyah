@@ -70,13 +70,27 @@ Meu objetivo é conquistar minha **primeira oportunidade de estágio na área de
 
 # 📊 Estatísticas
 
-<p align="center">
+<p align="left">
+  <img 
+    alt="GitHub Stats"
+    height="180"
+    style="padding-right:10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Mattiiyyah&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" 
+  /><img 
+alt="GitHub Top Langs" 
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattiiyyah&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mattiiyyah&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattiiyyah&layout=compact&theme=tokyonight&hide_border=true"/>
-
+</p><p align="left">
+  <img
+    alt="GitHub Streak"
+    height="180"
+    src="https://streak-stats.demolab.com?user=Mattiiyyah&theme=tokyonight&hide_border=true"
+  />
 </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mattiiyyah&theme=tokyo-night"/>
 
 ---
 
