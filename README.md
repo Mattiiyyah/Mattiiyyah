@@ -1,67 +1,120 @@
-# 👨‍💻 Matheus de Paula Santos
+👨🏻‍💻 Matheus de Paula Santos
 
-🎓 Estudante de **Informática para Negócios - FATEC Rio Preto**  
-💻 Técnico em **Desenvolvimento de Sistemas - ETEC Philadelpho Gouvêa Netto**  
++ Desenvolvedor Backend em formação
 
-Sou um desenvolvedor em formação com foco em **Backend**. Desde o ensino médio venho estudando programação e atualmente estou aprofundando meus conhecimentos em **Java, JavaScript e desenvolvimento web**.
+🎓 Estudante de Informática para Negócios - FATEC Rio Preto
+💻 Técnico em Desenvolvimento de Sistemas - ETEC Philadelpho Gouvêa Netto
 
-Tenho grande interesse em tecnologia e busco constantemente evoluir através de **projetos práticos e desafios de programação**.
+Sou apaixonado por tecnologia e desenvolvimento de software.
+Desde o ensino médio venho estudando programação e hoje estou focado em Backend, principalmente com Java e JavaScript.
 
-🚀 Atualmente estou em busca da **minha primeira oportunidade de estágio na área de desenvolvimento** para crescer profissionalmente e contribuir em projetos reais.
-
----
-
-# 🚀 Tecnologias
-
-<div style="display: inline_block"><br>
-
-<img align="center" alt="HTML" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-<img align="center" alt="Bootstrap" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-
-<img align="center" alt="JavaScript" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-<img align="center" alt="Java" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-<img align="center" alt="NodeJS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-
-<img align="center" alt="SQL" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-
-<img align="center" alt="Git" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-</div>
+Meu objetivo é conquistar minha primeira oportunidade como estagiário em desenvolvimento, evoluir tecnicamente e participar de projetos reais.
 
 ---
 
-# 📊 Estatísticas GitHub
+🚀 Tecnologias
 
-<div>
-<a href="https://github.com/Mattiiyyah">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mattiiyyah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<p align="left"><img 
+align="left" 
+alt="HTML"
+title="HTML"
+width="40px"
+style="padding-right: 12px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattiiyyah&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<img 
+align="left" 
+alt="CSS"
+title="CSS"
+width="40px"
+style="padding-right: 12px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+/>
+
+<img 
+align="left" 
+alt="Bootstrap"
+title="Bootstrap"
+width="40px"
+style="padding-right: 12px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+/>
+
+<img 
+align="left" 
+alt="JavaScript"
+title="JavaScript"
+width="40px"
+style="padding-right: 12px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+/>
+
+<img 
+align="left" 
+alt="Java"
+title="Java"
+width="40px"
+style="padding-right: 12px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+/>
+
+<img 
+align="left" 
+alt="NodeJS"
+title="NodeJS"
+width="40px"
+style="padding-right: 12px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+/>
+
+<img 
+align="left" 
+alt="SQL"
+title="SQL"
+width="40px"
+style="padding-right: 12px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+/>
+
+<img 
+align="left" 
+alt="Git"
+title="Git"
+width="40px"
+style="padding-right: 12px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+/>
+
+</p><br/>
+<br/>---
+
+📊 Atividade no GitHub
+
+<p align="center"><img 
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=Mattiiyyah&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img 
+height="170"
+src="https://streak-stats.demolab.com/?user=Mattiiyyah&theme=tokyonight&hide_border=true"
+/>
+
+</p><p align="center"><img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattiiyyah&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</p>---
+
+🎯 Objetivos atuais
+
+- Evoluir como desenvolvedor Backend
+- Aprender mais sobre APIs e arquitetura de software
+- Conseguir minha primeira oportunidade como estagiário
+- Construir projetos cada vez mais sólidos
 
 ---
 
-# 📚 Atualmente estudando
-
-- Estrutura de Dados
-- Java Backend
-- APIs REST
-- Banco de Dados
-- Boas práticas de desenvolvimento
-
----
-
-⭐ Obrigado por visitar meu perfil!
+⭐ Sempre buscando evolução através da prática e aprendizado contínuo.
