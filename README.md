@@ -1,112 +1,67 @@
-# 👨🏻‍💻 Matheus de Paula Santos
+# 👨‍💻 Matheus de Paula Santos
 
-**`Desenvolvedor Backend`**
+🎓 Estudante de **Informática para Negócios - FATEC Rio Preto**  
+💻 Técnico em **Desenvolvimento de Sistemas - ETEC Philadelpho Gouvêa Netto**  
 
-Me chamo Matheus e sou estudante de Informática para Negócios na FATEC Rio Preto, com formação técnica em Desenvolvimento de Sistemas pela ETEC PHILADELPHO GOUVÊA NETTO. Desde o ensino médio venho me dedicando ao aprendizado de programação e, atualmente, estou focado em aprofundar meus conhecimentos em JavaScript e Java. Tenho interesse em desenvolvimento web e busco constantemente aprimorar minhas habilidades com projetos práticos. Estou em busca de minha primeira oportunidade como estagiário na área de tecnologia, com o objetivo de crescer como desenvolvedor e contribuir ativamente em projetos reais.
+Sou um desenvolvedor em formação com foco em **Backend**. Desde o ensino médio venho estudando programação e atualmente estou aprofundando meus conhecimentos em **Java, JavaScript e desenvolvimento web**.
 
-<p align="left">
-    <a href="https://github.com/Mattiiyyah?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Mattiiyyah?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Tenho grande interesse em tecnologia e busco constantemente evoluir através de **projetos práticos e desafios de programação**.
+
+🚀 Atualmente estou em busca da **minha primeira oportunidade de estágio na área de desenvolvimento** para crescer profissionalmente e contribuir em projetos reais.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+# 🚀 Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+<div style="display: inline_block"><br>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
+<img align="center" alt="HTML" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 
-<img 
-    align="left"
-    alt="Sql"
-    title="Sql"
-    width="40px"
-    style="padding-right: 15px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-          
+<img align="center" alt="CSS" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<img align="center" alt="Bootstrap" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 
+<img align="center" alt="JavaScript" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
-<br/>
-<br/>
+<img align="center" alt="Java" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
-### 📊 Estatísticas
+<img align="center" alt="NodeJS" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 
-<p>
-  <img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=Mattiiyyah&show_icons=true&theme=tokyonight&locale=pt-br"
-/>
+<img align="center" alt="SQL" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
+<img align="center" alt="Git" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiiyyah&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+</div>
 
-</p>
+---
+
+# 📊 Estatísticas GitHub
+
+<div>
+<a href="https://github.com/Mattiiyyah">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mattiiyyah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattiiyyah&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+- Estrutura de Dados
+- Java Backend
+- APIs REST
+- Banco de Dados
+- Boas práticas de desenvolvimento
+
+---
+
+⭐ Obrigado por visitar meu perfil!
