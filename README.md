@@ -1,39 +1,74 @@
-<h1 align="center">👨🏻‍💻 Matheus de Paula Santos</h1>
+<h1 align="center">👋 Olá, me chamo Matheus</h1>
 
 <p align="center">
-Desenvolvedor Backend em formação
+💻 Desenvolvedor Backend em formação <br>
+🎓 FATEC Rio Preto — Informática para Negócios
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de **Informática para Negócios — FATEC Rio Preto**
+🎓 Estudante de **Informática para Negócios - FATEC Rio Preto**  
+💻 Técnico em **Desenvolvimento de Sistemas - ETEC Philadelpho Gouvêa Netto**
 
-💻 Técnico em **Desenvolvimento de Sistemas — ETEC Philadelpho Gouvêa Netto**
+Atualmente estou focado em evoluir como **desenvolvedor Backend**, estudando principalmente **Java, APIs e Banco de Dados**.
 
-📚 Atualmente estudando **Java, APIs e Banco de Dados**
-
-🎯 Buscando minha **primeira oportunidade como estagiário na área de tecnologia**
+Meu objetivo é conquistar minha **primeira oportunidade de estágio na área de tecnologia** e continuar evoluindo através de projetos práticos.
 
 ---
 
-## 🧠 Tecnologias
+# 💻 Tecnologias
+
+## 🎨 Front-end
 
 <p align="left">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
+
 </p>
 
 ---
 
-## 📊 Estatísticas
+## ⚙️ Back-end
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
+
+</p>
+
+---
+
+# 🛠️ Ambientes de desenvolvimento
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40px"/>
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/insomnia.svg" width="40px"/>
+
+</p>
+
+---
+
+# 📊 Estatísticas
 
 <p align="center">
 
@@ -43,7 +78,7 @@ Desenvolvedor Backend em formação
 
 ---
 
-## 📈 Atividade no GitHub
+# 📈 Atividade no GitHub
 
 <p align="center">
 
@@ -56,6 +91,4 @@ Desenvolvedor Backend em formação
 ## 🧠 Filosofia
 
 > Evoluir todos os dias um pouco mais.  
-> Programação é prática, consistência e disciplina.
-
----
+> Código bom nasce de prática e consistência.
