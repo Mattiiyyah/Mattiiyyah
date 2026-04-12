@@ -79,17 +79,21 @@ public class Matheus {
 
 <div align="center">
 
-  <img
-    height="170"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mattiiyyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=FF2D2D&icon_color=FF2D2D&text_color=FFFFFF"/>
-
-  <img
-    height="170"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mattiiyyah&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=FF2D2D&text_color=FFFFFF"/>
-
-<br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mattiiyyah&theme=tokyonight&hide_border=true&ring=FF2D2D&fire=FF2D2D&currStreakLabel=FF2D2D&sideLabels=FF2D2D"/>
+<table>
+  <tr>
+    <td>
+      <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mattiiyyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=FF2D2D&icon_color=FF2D2D&text_color=FFFFFF"/>
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mattiiyyah&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=FF2D2D&text_color=FFFFFF"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Mattiiyyah&theme=tokyonight&hide_border=true&ring=FF2D2D&fire=FF2D2D&currStreakLabel=FF2D2D&sideLabels=FF2D2D"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
